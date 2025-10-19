@@ -108,7 +108,7 @@ Enter your choice: 6
 ID        Name           Subject        Salary
 101       Khushi         OOPs           250000.00
 
-Press Enter to continue...7
+Press Enter to continue...
 
 ===== Student Grade Management System =====
 1. Add Student
@@ -118,6 +118,6 @@ Press Enter to continue...7
 5. Add Teacher
 6. View All Teachers
 7. Exit
-Enter your choice: 
+Enter your choice: 7
 Exiting...
 ```
